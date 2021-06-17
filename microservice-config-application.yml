@@ -8,8 +8,8 @@ server:
 spring:
   profiles: dev # 开发环境
   application:
-    name: microservice-config-dev11
-name: 11
+    name: microservice-config-dev
+
 ---
 server:
   port: 4002 #端口号
